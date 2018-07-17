@@ -1,2 +1,2 @@
 # ProjectTempest-ISSUETRACKER
-Report bugs found on Project Tempest here.
+This is the correct place to report bugs for Project Tempest. 
