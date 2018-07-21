@@ -27,7 +27,8 @@ Our team consists of three dedicated people:
 
 ### Features
 
-- Our core is based on [CMaNGOS](https://github.com/cmangos) project with large amount of custom fixes and tweaks
+- WoW TBC PvE (with sure meaty bites of PvP) Not-So-Blizzlike server based on...
+- ... on [CMaNGOS](https://github.com/cmangos) project! Just generously spiced with large amount of custom fixes and tweaks
 - Meticiously polished server scripting of whatever our hands could reach for, because every little detail matters
 - Progressive content based on 2.4.3.8606 client, starting with patch 2.0
 - Hand-tuned heroic dungeons and raid encounters
