@@ -51,7 +51,7 @@ Our team consists of three dedicated people:
 ### How to connect?
 
 - Register your account [here](http://project-tempest.com/?p=account&sub=register)
-- Update realmlist.wtf with `set realmlist 104.128.234.166`
+- Update realmlist.wtf with `set realmlist project-tempest.com`
 - Enter the game using same registration info you used on the website
 - ???????
 - You're all set!
