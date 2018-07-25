@@ -69,3 +69,5 @@ Our team consists of three dedicated people:
 > \<StillYetAnotherPerson\>: Do not join japanlady server ever
 
 > \<MemeGunMasta\>: V O T E S W E R E CL E A R
+
+> \<RedditFunkyGrinder\>: I've compiled CMangos TBC before with ease so dont act tough lullll, oh and at the end of the day, you dont know cpp, so even if u have a core u cant fix shit innit lool. But u do u sugarbaby
