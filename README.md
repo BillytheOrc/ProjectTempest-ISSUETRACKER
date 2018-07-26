@@ -50,7 +50,7 @@ Our team consists of three dedicated people:
 
 ### How to connect?
 
-- Register your account [here](http://project-tempest.com/?p=account&sub=register)
+- Register your account [here](http://project-tempest.com/register)
 - Update realmlist.wtf with `set realmlist project-tempest.com`
 - Enter the game using same registration info you used on the website
 - ???????
